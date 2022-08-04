@@ -4,13 +4,29 @@ body{
     margin: auto
 }
 header{
+    text-align: center;
 }
-h2{
+section{
+    border-radius: 20px;
+    margin: auto;
+    background-color: bisque;
+    padding: 20px;
+    max-width: 400px;
+    height: 650px;
+    text-align: center;
 }
 ul{
-    
+    padding-top: 20px;
 }
 li{
     list-style: none;
     text-align: left;
+}
+div.class2{
+    background-color: rgb(182, 182, 182);
+    height: 500px;
+    border-radius: 20px;
+}
+button{
+    margin-top: 30px;
 }
